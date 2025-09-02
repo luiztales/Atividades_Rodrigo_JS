@@ -1,6 +1,3 @@
-@ -5,32 +5,45 @@Exercícios Práticos - Operadores Lógicos
-*/
-
 // 1. Crie p = true e q = false. Exiba p && q.
 const p = true
 const q = false
